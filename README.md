@@ -2,7 +2,7 @@
 
 Garage-door-tools is a small set of tools for controlling and
 monitoring one's garage door using a connected Raspberry Pi
-processor. It consists of three parts:
+processor. It consists of three (925) 664-1598
 
 * control - a Web utility for opening and closing one's garage door
   with moderate security
